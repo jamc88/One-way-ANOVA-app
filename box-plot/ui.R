@@ -6,7 +6,7 @@ library(plotly)
 
 shinyUI(fluidPage(
 
-    titlePanel("One-way ANOVA"),
+    titlePanel("One-way ANOVA- RStudio"),
 
     sidebarLayout(
         sidebarPanel(width = 3 ,
